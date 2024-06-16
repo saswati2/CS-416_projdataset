@@ -6,6 +6,7 @@ The datasets used for CS-416 Dashboard projects are:
    
 Johns Hopkins University (World)- https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports_us                                            
 This folder consists of statewise daily reports for every states of USA during pandemic.
+
 screenshot:
 
 
@@ -14,6 +15,7 @@ screenshot:
 
 
 I mergerd all the data to a single file(merged_covid_data.csv) using python code (merging_dataset.py). 
+
 
 
 
