@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-#Put your .csv file location
+#Put your folder csse_covid_19_daily_reports_us location
 directory = '/Users/munssa01/Downloads/COVID-19-master/csse_covid_19_data/csse_covid_19_daily_reports_us'
 
 dataframes = []
